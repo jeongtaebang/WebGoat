@@ -1,0 +1,38 @@
+package_files:
+  npm:
+  - ./docs/package-lock.json
+  - ./docs/package.json
+  - ./webgoat-container/src/main/resources/static/js/libs/ace/package.json
+  maven:
+  - ./pom.xml
+  - ./webgoat-lessons/http-basics/pom.xml
+  - ./webgoat-lessons/idor/pom.xml
+  - ./webgoat-lessons/pom.xml
+  - ./webgoat-lessons/client-side-filtering/pom.xml
+  - ./webgoat-lessons/command-injection/pom.xml
+  - ./webgoat-lessons/chrome-dev-tools/pom.xml
+  - ./webgoat-lessons/password-reset/pom.xml
+  - ./webgoat-lessons/webgoat-introduction/pom.xml
+  - ./webgoat-lessons/secure-passwords/pom.xml
+  - ./webgoat-lessons/jwt/pom.xml
+  - ./webgoat-lessons/missing-function-ac/pom.xml
+  - ./webgoat-lessons/http-proxies/pom.xml
+  - ./webgoat-lessons/insecure-login/pom.xml
+  - ./webgoat-lessons/sql-injection/pom.xml
+  - ./webgoat-lessons/insecure-deserialization/pom.xml
+  - ./webgoat-lessons/challenge/pom.xml
+  - ./webgoat-lessons/bypass-restrictions/pom.xml
+  - ./webgoat-lessons/ssrf/pom.xml
+  - ./webgoat-lessons/vulnerable-components/pom.xml
+  - ./webgoat-lessons/webwolf-introduction/pom.xml
+  - ./webgoat-lessons/cia/pom.xml
+  - ./webgoat-lessons/auth-bypass/pom.xml
+  - ./webgoat-lessons/webgoat-lesson-template/pom.xml
+  - ./webgoat-lessons/csrf/pom.xml
+  - ./webgoat-lessons/cross-site-scripting/pom.xml
+  - ./webgoat-lessons/html-tampering/pom.xml
+  - ./webgoat-lessons/xxe/pom.xml
+  - ./webgoat-container/pom.xml
+  - ./webgoat-server/pom.xml
+  - ./webwolf/pom.xml
+created_at: 2019-08-29 20:25:00 UTC
