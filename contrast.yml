@@ -1,0 +1,11 @@
+package_files:
+  npm:
+  - ./docs/package-lock.json
+  - ./docs/package.json
+  - ./webgoat-container/src/main/resources/static/js/libs/ace/package.json
+  maven:
+  - ./pom.xml
+  - ./webgoat-lessons/http-basics/pom.xml
+  - ./webgoat-lessons/idor/pom.xml
+  - ./webwolf/pom.xml
+created_at: 2019-08-30 16:46:22 UTC
